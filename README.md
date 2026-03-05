@@ -60,3 +60,4 @@ Currently learning **Python, APIs and Algorithmic Trading Systems.**
 ---
 
 ⭐ **Thanks for visiting my profile!**
+![Snake animation](https://github.com/gotamgurjar/gotamgurjar/blob/output/github-contribution-grid-snake.svg)
