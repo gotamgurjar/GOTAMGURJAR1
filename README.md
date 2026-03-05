@@ -1,3 +1,10 @@
+(Animated Header Code)
+
+# Hi 👋 I'm Gotam Gurjar
+Software Developer from India
+
+
+
 # Hi 👋 I'm Gotam Gurjar
 
 🚀 **Software Developer from India**
@@ -25,6 +32,10 @@ Currently learning **Python, APIs and Algorithmic Trading Systems.**
 * REST API
 
 ---
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,html,css,cs,mongodb,git,github,vscode" />
+</p>
 
 ## 📊 GitHub Stats
 
